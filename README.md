@@ -14,4 +14,6 @@ This project is a simple implementation of user sign-in using a phone number and
 ---
 
 # License
-This project is open-source under the MIT License.
+## License
+
+This project is open-source and available under the [MIT License](LICENSE).
