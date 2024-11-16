@@ -11,6 +11,5 @@ public class User extends BaseModel {
 
     private String username;
     private String phoneNumber;
-//    private String hashedPassword;
     private boolean isVerified;
 }
